@@ -5,7 +5,7 @@ subtitle: '从第𝑘年开始的每一年，需要知道谁是现役最强。�
 date: 2019-08-30
 categories: 公告
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: OI 基础数据结构 栈 队列 链表 并查集
+tags: OI 基础数据结构
 ---
 
 ## 1.1栈
