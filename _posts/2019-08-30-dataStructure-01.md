@@ -3,9 +3,9 @@ layout: post
 title: '洛谷2019PJ #1 基础数据结构'
 subtitle: '从第𝑘年开始的每一年，需要知道谁是现役最强。如果一个人比你强，还比你小，那你就打不过她了。nmd, wsm?'
 date: 2019-08-30
-categories: 公告
+categories: OI
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: OI 基础数据结构
+tags: Luogu.2019.PJ
 ---
 
 ## 1.1栈
