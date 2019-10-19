@@ -9,17 +9,9 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: travelNotes
 ---
 
-## 绪言·参考资料
+## 绪言
 
 ~~其实不想写初赛游记，但是我太蒟，原地爆炸可能就没有复赛然后直接退役了~~
-
-- [CCF2019 CSP-J1 C++版 A卷试题](assets\files\入门组C++（CSP2019-junior-C++-A）.pdf)
-
-- [CCF2019 CSP-J1 C++版 A卷参考答案](assets\files\CSP2019-junior-参考答案-A.docx)
-
-- [CCF2019 CSP-S1 C++版 A卷试题](assets\files\提高组C++（CSP2019-senior-C++-A）.pdf)
-
-- [CCF2019 CSP-S1 C++版 A卷参考答案](assets\files\CSP2019-senior-参考答案-A.docx)
 
 ## 目录
 
