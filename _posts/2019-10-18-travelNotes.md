@@ -5,7 +5,7 @@ subtitle: '到湖大的综合楼门口，发现旁边全是雅礼一中师大附
 湖大教室似是确乎有趣，趁着他在那里畅谈所谓「CCF NOIP考场纪律」，不知的为何便努力地玩起了椅子，~~差点卡在椅子里~~'
 date: 2019-10-19
 categories: 游记
-cover: 'https://s2.ax1x.com/2019/10/19/KnjAr6.md.png'
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: travelNotes
 ---
 
